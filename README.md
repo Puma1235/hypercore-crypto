@@ -65,4 +65,4 @@ Use this to namespace capabilities or hashes / signatures across algorithms.
 
 ## License
 
-MIT
+MIT 
